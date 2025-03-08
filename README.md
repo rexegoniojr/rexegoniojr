@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**rexegoniojr/rexegoniojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, frontend development, and backend development.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Working with ReactJs (Vite), ASP.NET Web API, and Node.js
+
+🔹 Experienced in building APIs with Express.js and ASP.NET
+
+🔹 Securely managing data with MSSQL and encryption (node-forge)
+
+🔹 Deploying applications to cloud environments
+
+🛠 Tech Stack
+
+Languages: JavaScript, C#, Java, PHP
+
+Frameworks: Node.js, Express.js, ASP.NET
+
+Databases: MSSQL, MySQL, MongoDB
+
+Security: Encryption, JWT, OAuth
+
+Operating Systems: Windows, Linux
+
+Web Servers: IIS, NGINX
+
+📫 Let's Connect!
+
+LinkedIn: www.linkedin.com/in/rex-egonio-jr
+
+Email: rex.egonio.jr@gmail.com
+
+Thanks for stopping by! 🚀
+
