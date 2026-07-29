@@ -5,7 +5,7 @@ and AI-powered automation. I led the rebuild of a production Loan
 Origination System (legacy PHP → React/TypeScript + ASP.NET Web API),
 and I ship independent full-stack systems end-to-end — see ATOMS below.
 
-🔗 [Portfolio]([your-portfolio-url](https://rex-ternal-memory-11i96oc35-rexternalmemorys-projects-97a0a1ab.vercel.app/)) · [LinkedIn](https://www.linkedin.com/in/rex-egonio-jr)
+🔗 [Portfolio](https://rex-ternal-memory-11i96oc35-rexternalmemorys-projects-97a0a1ab.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rex-egonio-jr)
 
 ---
 
